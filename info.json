@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "ea58e107935ef9e299a09f6ba307a0289a19a664",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2019-12-05 19:13:15",
+    "files": 1,
+    "merge": false,
+    "message": "update official docs url\n"
+  },
+  "remote": "https://github.com/ropensci/gtfsr",
+  "pkg": "gtfsr"
+}
